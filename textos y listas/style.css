@@ -1,0 +1,11 @@
+span.cursiva{
+    font-style: oblique;
+}
+
+span.negrita {
+    font-weight: bold;
+}
+
+span.pequeña{
+    font-size: small;
+}
