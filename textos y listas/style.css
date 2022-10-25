@@ -9,3 +9,11 @@ span.negrita {
 span.pequeña{
     font-size: small;
 }
+
+ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-image: url("img/Cara-Sonriente-Simple\ .jpg");
+}
